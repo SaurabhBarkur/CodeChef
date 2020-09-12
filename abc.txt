@@ -1,5 +1,4 @@
 jaskj jjaskla ajkskls  dshos
-<<<<<<< HEAD
 jkjdfkl
 sduewhr
 sdjfklsdmf
@@ -8,7 +7,6 @@ sdjfklsdmf
 sdjfklsdmf
 sdjfklsdmf
 sdjfklsdmf
-=======
 jaskj jjaskla ajkskls  dshos
 jaskj jjaskla ajkskls  dshos
 jaskj jjaskla ajkskls  dshos
@@ -16,4 +14,3 @@ jaskj jjaskla ajkskls  ds
 jaskj jjaskla ajkskls  dshos
 ekkjfkdlskf
 jaskj jjaskla   dshosfhfg
->>>>>>> f1938479859b8b9d1666c6c91e7120e8c9e5ca1d
